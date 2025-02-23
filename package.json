@@ -1,9 +1,9 @@
 {
-  "name": "nextjs-starter",
+  "name": "generative",
   "version": "1.0.0",
   "private": true,
   "description": "A Next.js starter that includes all you need to build amazing projects",
-  "author": "abel chang<cwuyiqing@gmail.com>",
+  "author": "Chris West<thrillgraphics@gmail.com>",
   "license": "MIT",
   "keywords": [
     "nextjs",
@@ -26,10 +26,9 @@
     "immer": "10.1.1",
     "lucide-react": "0.474.0",
     "next": "15.1.6",
+    "prune": "0.0.2",
     "react": "19.0.0",
     "react-dom": "19.0.0",
-    "tailwind-merge": "3.0.1",
-    "tailwindcss-animate": "1.0.7",
     "zustand": "5.0.3"
   },
   "devDependencies": {
@@ -49,7 +48,8 @@
     "lint-staged": "15.4.3",
     "postcss": "8.5.1",
     "prettier": "3.4.2",
-    "tailwindcss": "4.0.4",
+    "sass": "1.85.0",
+    "sass-embedded": "1.85.0",
     "typescript": "5.7.3"
   },
   "lint-staged": {
